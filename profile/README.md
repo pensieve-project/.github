@@ -14,7 +14,7 @@
 
 **Pensieve** (this is the name of the stone bowl for viewing memories from Harry Potter) is an application where people create themes and post to them.
 
-By linking a post to a specific topic, life moments take on a certain emotional tone, and the posts gain greater significance for the user. Posts include a photo, a text description, and geolocation, and they can be viewed in the user's profile as a grid or on a map. Additionally, our app allows for searching by free-form topic and post descriptions, as well as browsing feeds of popular posts and topics. Users can search for and follow other users and also create collaborative posts, which will appear in their profile under the 'Albums' section.
+By linking a post to a specific topic, life moments take on a particular emotional tone, and the posts gain greater significance for the user. Each post includes a photo, a text description, and geolocation data, and they can be viewed in the user's profile either as a grid or on a map. Additionally, our app allows users to search by free-form themes and post descriptions, as well as browse feeds of popular posts and trending themes. Users can also search for and follow other users. Another key feature is the ability to create collaborative posts, which appear in the user's profile under the 'Albums' section.
 
 Pensieve is a place where you can discover something new about another person!
 
