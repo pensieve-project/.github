@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="assets/pensieve_wallpaper.jpg" alt="Pensieve Logo" />
     <h1>Pensieve</h1>
     <p>- the application where you can share moments.</p>
     <a href="#about-project">About</a> •
