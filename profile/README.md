@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Pensieve</h1>
-    <p>- an application where you can share moments.</p>
+    <p>- the application where you can share moments.</p>
     <a href="#about-project">About</a> •
     <a href="#pensieve-features">Features</a> •
     <a href="#application-architecture">Architecture</a> •
@@ -32,6 +32,9 @@ Pensieve is a place where you can discover something new about another person!
 - **Smart search:** search for posts and themes by free description.
 
 ## Application architecture:
+<div align="center">
+    <img src="assets/architecture.png" alt="Architecture"/>
+</div>
 
 ## Components of the application: 
 Pensieve consist of [Server](https://github.com/pensieve-project/pensieve-server) and [Android](https://github.com/pensieve-project/pensieve-android) parts. To run the application you should download both parts.
@@ -39,7 +42,16 @@ Pensieve consist of [Server](https://github.com/pensieve-project/pensieve-server
 You can see the installation instructions in [README for Server](https://github.com/pensieve-project/pensieve-server/blob/main/README.md) and [README for Android](https://github.com/pensieve-project/pensieve-android/blob/main/README.md).
 
 ## Look at the preview:
-You can watch the presentation (ru) of our project, as well as the demonstration video on YouTube.
+**<a href="https://drive.google.com/file/d/1ndsAAH6xQLmk8bwD8MyqdlA7rLyBCMBG/view?resourcekey">Here</a> you can watch the demo video.**
+<p float="left">
+    <img src="assets/registration.gif" width="200" alt=""/> 
+    <img src="assets/feed.gif" width="200" alt=""/>
+    <img src="assets/profile.gif" width="200" alt=""/>
+</p>
+<p float="left">
+<img src="assets/creation.gif" width="200" alt="">
+<img src="assets/albums.gif" width="200" alt="">
+</p>
 
 ## About authors:
  <b>Developers:</b>
